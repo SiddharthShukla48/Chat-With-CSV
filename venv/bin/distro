@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/siddharthshukla/Library/CloudStorage/OneDrive-ManipalUniversityJaipur/Kaam Dhandha/Internship/Varnan Labs/Chat With CSV/Chat CSV Langchain/Chat-With-CSV/venv/bin/python3.13" "$0" "$@"
+'''exec' "/Users/siddharthshukla/Library/CloudStorage/OneDrive-ManipalUniversityJaipur/Kaam Dhandha/Internship/Varnan Labs/Chat With CSV/Chat CSV Langchain/Chat-With-CSV/src/venv/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
