@@ -34,5 +34,5 @@ This project is a Streamlit application that integrates a chat interface with CS
 
 To run the application, execute the following command:
 ```
-streamlit run app.py
+streamlit run src/app.py
 ```
